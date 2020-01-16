@@ -19,8 +19,3 @@ for b in range(1000):
             break
 
 print(result)
-
-
-
-
-
